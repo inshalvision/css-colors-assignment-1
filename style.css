@@ -1,19 +1,18 @@
-#main-title
-{
-    color: blue ;
+#main-title {
+    color: blue;
     background-color: hsl(210, 100%, 50%);
 }
-#color-box
-{
+
+#color-box {
     color: coral;
     background-color: rgb(248, 248, 70);
 }
-.intro-paragraph
-{
+
+.intro-paragraph {
     color: rgb(255, 99, 71);
-    color: #8a2be2 ;
+    color: #8a2be2;
 }
-.unstyled 
-{
+
+.unstyled {
     background-color: rgba(0, 128, 0, 0.3)
 }
